@@ -1,0 +1,4 @@
+config.yml
+/config.yml
+lambdas/**/node_modules
+node_modules
